@@ -1,4 +1,4 @@
-# openblock-realtime-firmware
+# openblock-firmware
 
-The firmware for realtime mode feature.
+The firmware for boards.
 
