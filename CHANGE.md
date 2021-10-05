@@ -1,5 +1,16 @@
 # Change log
 
+## v1.2.1
+
+Delete unused microbit v2 firmware.
+
+- Arduino
+    1. Arduino UNO - standard firmata
+
+    2. Arduino UNO Ultra - standard firmata (for those customized board which has A6 A7 pins)
+
+    3. Arduino Mega 2560 - standard firmata
+
 ## v1.2.0
 
 - Arduino
