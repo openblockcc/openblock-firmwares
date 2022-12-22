@@ -1,5 +1,9 @@
 # Change log
 
+## v1.3.1
+
+Update esp32 esp8266 micro python firmware from v1.18 to v1.19.1.
+
 ## v1.3.0
 
 Add esp32 esp8266 and k210 micro python firmware.
