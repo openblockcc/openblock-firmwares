@@ -6,9 +6,9 @@ The firmware for boards.
 
 - Arduino
 
-    1. Arduino UNO - standard firmata
-    2. Arduino UNO Ultra - standard firmata (for those customized board which has A6 A7 pins)
-    3. Arduino Mega 2560 - standard firmata
+    1. Arduino UNO - configurable firmata
+    2. Arduino UNO Ultra - configurable firmata (for those customized board which has A6 A7 pins)
+    3. Arduino Mega 2560 - configurable firmata
 
 - Micro Python
 

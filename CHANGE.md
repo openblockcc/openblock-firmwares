@@ -1,5 +1,9 @@
 # Change log
 
+## v1.4.0
+
+Change arduino firmware from standard firmata to configurable firmata.
+
 ## v1.3.1
 
 Update esp32 esp8266 micro python firmware from v1.18 to v1.19.1.
