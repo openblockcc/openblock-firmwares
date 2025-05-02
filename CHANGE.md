@@ -1,5 +1,9 @@
 # Change log
 
+## v1.5.0
+
+Update micropython firmwares to latest.
+
 ## v1.4.0
 
 Change arduino firmware from standard firmata to configurable firmata.
